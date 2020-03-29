@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="com.agency" />
+          <element id="module-output" name="comagency" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.2.RELEASE" />
@@ -62,7 +62,7 @@
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-acl:5.0.2.RELEASE" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="com.agency/web/Web" />
+      <element id="javaee-facet-resources" facet="comagency/web/Web" />
     </root>
   </artifact>
 </component>
